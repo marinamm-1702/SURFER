@@ -25,4 +25,14 @@ The data contained in folder `scenarios/RCP/` is based on the RCP databased host
 ### ZECMIP results
 The data contained in folder `ZECMIP_data/` is freely available and has been downloaded from http://terra.seos.uvic.ca/ZECMIP/index.html
 ### Data not in the repository
-In the paper, SURFER's output is contrasted to results from other references. That data can be found by following the references or by private communication with the authors of those references.
+In the paper, SURFER's output is contrasted to results from other references:
+
+[1] A. M. R. Bakker, T. E. Wong, K. L. Ruckert, and K. Keller, “Sea-level projections representing the deeply uncertain contribution of the West Antarctic ice sheet,” Sci. Rep., vol. 7, no. 1, pp. 1–7, 2017.
+
+[2] T. Frederikse et al., “The causes of sea-level rise since 1900,” Nature, vol. 584, no. 7821, pp. 393–397, 2020.
+
+[3] A. Robinson, R. Calov, and A. Ganopolski, “Multistability and critical thresholds of the Greenland ice sheet,” Nat. Clim. Chang., vol. 2, no. 6, pp. 429–432, 2012.
+
+[4] J. Van Breedam, H. Goelzer, and P. Huybrechts, “Semi-equilibrated global sea-level change projections for the next 10 000 years,” Earth Syst. Dyn., vol. 11, no. 4, pp. 953–976, 2020.
+
+Data in Refs. [1] and [2] can be found by following the references and data in Refs. [3] and [4] was obtained by private communication with the authors.
